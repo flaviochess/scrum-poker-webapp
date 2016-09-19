@@ -1,0 +1,16 @@
+.deck li {
+	display: inline-block;
+	border: 5px solid black;
+	font-size: 160px; /* depois trocar por medida relativa */
+	padding: 10px;
+	margin-right: 70px;
+	margin-bottom: 30px;
+	box-sizing: border-box;
+	width: 25%;
+	line-height: inherit;
+}
+
+.deck a {
+	width: 100%;
+	display: inline-block;
+}
